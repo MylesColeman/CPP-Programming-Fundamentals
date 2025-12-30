@@ -25,6 +25,6 @@ A collection of technical C++ exercises and prototypes developed for the Game Pr
 
 ## 🛠️ Technical Skills Demonstrated
 * **Languages:** C++
-* **Logic & Data:** 2D Arrays, File I/O, Persistence, Boolean Logic, Flow Control.
+* **Logic & Data:** 1D Arrays, File I/O, Persistence, Boolean Logic, Flow Control.
 * **Libraries:** SFML (Simple and Fast Multimedia Library).
 * **Tools:** Visual Studio.
